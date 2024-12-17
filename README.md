@@ -3,7 +3,7 @@
 
 Before you can start completing step in this tutorial, you will need to
 install a few dependencies on your system. These are described in
-[[file:setup_dependencies.org]].
+[setup](./setup_dependencies.org).
 ### Runnning the programs
 
  - XDP:
